@@ -1,0 +1,151 @@
+html{
+    position: absolute;
+   width: 1517px;
+   height: 1470.74px; 
+   max-height: 100%;
+   max-width: 100%;
+   scroll-behavior: smooth;
+   
+}
+body {
+   margin:0;
+   padding:0;
+   font-family: sans-serif ;
+   font-size: 50px;
+   /* background: linear-gradient(#e5e0eb, #72859b); */
+   }
+h1{
+   position: absolute;
+   width: 561px;
+   height: 94px;
+   left: 192px;
+   top: 135px;
+   
+   font-family: 'serif';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 50px;
+   line-height: 64px;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   margin-bottom: 0px;
+   /* border: 0.5px solid #000000; */
+   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.main {
+    max-width: 100%;
+    max-height: 60%;
+}
+h3{
+    position: fixed;
+    top:35px;
+    left: 35px;
+    font-size:  30px;
+    font-family: 'Fonstars';
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    background: url(text1.jpg) no-repeat;
+   background-repeat: repeat;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   -webkit-font-smoothing: antialiased;
+   
+}
+h6{
+    position: absolute;
+    margin-top: 0px;
+    top: 246px;
+    left: 224px;
+    font-size: 18px;
+    width:500px;
+}
+.headder{
+    position:absolute;
+    top:150px;
+    left:315px;
+    color:whitesmoke;
+}
+.booking{
+    position: absolute;
+    width: 1334px;
+    height: 1000px;
+    left: 90px;
+    top: 850px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+}
+.i1{
+    height:500px;
+    width:333px;
+}
+.i2{
+    position: absolute;
+    height:500px;
+    width:333px;
+    left: auto;
+}
+.i3{
+    height:500px;
+    width:333px;
+}
+.i4{
+    position: absolute;
+    height:500px;
+    width:333px;
+    left: auto;
+}
+.section2{
+    position:absolute;
+    top:500px;
+    left: 666px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width:355px;
+}
+h4{
+    font-family: serif;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.section1 {
+    position: absolute;
+    left: 766px;
+    top: 140px;
+}
+.section2 div{
+    position: absolute;
+    left: -566px;
+    top: 140px;
+}
+.b1{
+    position: absolute;
+    font-size: 15px;
+    border-radius: 15px;
+    left: auto;
+    top: auto;
+    width: 125px;
+    height: 40px;
+}
+.b2{
+    position: absolute;
+    font-size: 15px;
+    border-radius: 15px;
+    left: auto;
+    top: auto;
+    width: 125px;
+    height: 40px;
+}
+.b1:hover {
+    background-color:#b3b7c3;
+    transition: 0.7s;
+}
+.b2:hover {
+    background-color:#b3b7c3;
+    transition: 0.7s;
+}
